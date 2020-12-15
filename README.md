@@ -1,3 +1,3 @@
 # testing
 Repository Creation
-I love :coffee: :pizza:, and :icecream: :tea: :car:.
+I love :coffee: :pizza:, and :icecream: :tea: :car: :bike:.
